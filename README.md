@@ -58,7 +58,7 @@ interests:  [ Cybersecurity, Machine Learning, AI, Software Dev ]
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🐚 Minishell
 > A fully functional Unix shell built from scratch in C.  
@@ -67,7 +67,18 @@ interests:  [ Cybersecurity, Machine Learning, AI, Software Dev ]
 `C` · `Processes` · `Parsing`
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
+
+### 📡 ft_irc
+> A fully compliant IRC server in C++98.  
+> Multi-client, channels, operators, and real IRC protocol support.
+
+`C++` · `Networking` · `Sockets`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 📄 Get Next Line
 > An optimized file-reading function in C that reads line by line from any file descriptor — handling edge cases and memory carefully.
@@ -75,12 +86,14 @@ interests:  [ Cybersecurity, Machine Learning, AI, Software Dev ]
 `C` · `File I/O` · `Memory`
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 🌐 Web Server
-> HTTP server built from the ground up — sockets, request parsing, response formatting, and concurrent connections.
+### 🏓 Transcendance &nbsp; `[ coming soon ]`
+> Full-stack web app featuring a real-time Pong game, user auth, chat, and tournament system. The 42 final boss.
 
-`C++` · `Networking` · `HTTP`
+`TypeScript` · `NestJS` · `React` · `WebSockets`
+
+> ⚠️ *Not started yet — but it's next.*
 
 </td>
 </tr>
@@ -91,12 +104,12 @@ interests:  [ Cybersecurity, Machine Learning, AI, Software Dev ]
 ## `$ top` — What I'm working on
 
 ```
-PID   TASK                          STATUS      PRIORITY
----   --------                      ------      --------
-001   42 final projects             running     [██████████] high
-002   Algorithm deep-dives          running     [████████░░] high  
-003   Cybersec / ML exploration     running     [██████░░░░] medium
-004   Open source contributions     queued      [░░░░░░░░░░] soon
+PID   TASK                                STATUS      PRIORITY
+---   ----------------------------------------        --------
+001   42 final projects                   running     [██████████] high
+002   Diving into Machine Learning        learning    [████░░░░░░] started
+003   Exploring Cybersecurity concepts    learning    [███░░░░░░░] started
+004   Building small AI side-projects     building    [██░░░░░░░░] early stage
 ```
 
 ---
@@ -124,7 +137,6 @@ j1k2l3m  always: learn from every project
 
 ```
 // Always open to interesting projects, internships, and full-time roles.
-// Don't hesitate — the worst I can say is "not right now".
 ```
 
 </div>
