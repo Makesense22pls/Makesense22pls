@@ -133,9 +133,9 @@ j1k2l3m  always: learn from every project
 
 ## `$ contact --now`
 
-[![Email](https://img.shields.io/badge/Email-Reach_out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![Email](https://img.shields.io/badge/Email-Reach_out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maxencefournierr@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-DM_me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxence-f-3061a015b/)
 
 <br/>
 
@@ -144,3 +144,4 @@ j1k2l3m  always: learn from every project
 ```
 
 </div>
+
