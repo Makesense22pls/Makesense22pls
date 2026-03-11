@@ -9,11 +9,12 @@
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝ ╚═════╝╚══════╝
 ```
 
-### `C++ Developer` · `Algorithm Enthusiast` · `42 School`
+### `C & C++ Developer` · `Algorithm Enthusiast` · `42 School`
 
 <br/>
 
 [![42 School](https://img.shields.io/badge/42_School-Québec_%26_Paris-000000?style=for-the-badge&logo=42&logoColor=white)](https://42.fr)
+[![C](https://img.shields.io/badge/C-Expert-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C++-Expert-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org)
 [![Open to work](https://img.shields.io/badge/Status-Open_to_work-2ea043?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
 
@@ -40,7 +41,10 @@ interests:  [ Cybersecurity, Machine Learning, AI, Software Dev ]
 
 ```json
 {
-  "languages": ["C++", "Python", "Bash", "HTML", "CSS", "JavaScript"],
+  "languages": {
+    "expert":  ["C", "C++", "Bash"],
+    "novice":  ["Python", "HTML", "CSS", "JavaScript"]
+  },
   "tools":     ["Git", "Docker", "Makefile", "VSCode", "CLI"],
   "cs_core":   [
     "Sorting Algorithms",
