@@ -1,56 +1,31 @@
-# 👋 Salut, moi c’est [TonNom]  
+# 👋 Hi, I’m Maxence.
 
-🎯 **Passionné de C++ & d’algorithmes optimisés**  
-💻 Projets 42, Merge-Insertion Sort et défis logiques  
-🚀 Toujours en train d’apprendre, coder et améliorer mes compétences  
+🎯 **C++ Developer & Algorithm Enthusiast**  
+💻 42 School Projects (Québec & Paris), Merge-Insertion Sort, and coding challenges  
+---
 
-![Coding GIF](https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif)
+## ⚡ About Me
+
+- Developer with **1.5 years of experience at 42 School** (Québec and Paris campuses)  
+- Graduate in **Political Science and Economics**  
+- Currently completing 42 projects and **seeking a full-time role or internship**, mainly in **Cybersecurity, Machine Learning, or AI**, but open to **other opportunities in software development**  
 
 ---
 
-## ⚡ À propos de moi
+## 💻 Skills
 
-- 🔹 Étudiant / Développeur motivé par la **programmation système et les algorithmes avancés**  
-- 🔹 Fan de **résolution de problèmes et challenges logiques**  
-- 🔹 J’adore transformer **des concepts théoriques en code fonctionnel**  
-- 🌱 Actuellement : projets 42, C++ et optimisation de code  
-
+| Domain | Skills |
+|--------|--------|
+| **Languages** | C++, Python, Bash, Web Basics (HTML, CSS, JavaScript) |
+| **Tools & Frameworks** | Git, GitHub, VSCode, Makefile, CLI, Docker |
+| **Algorithms & Data Structures** | Sorting, Graphs, Trees, Optimized Sequences, Binary Search, Complexity Optimization |
 ---
 
-## 💻 Mes compétences
+##  Some Projects
 
-| Langages | Outils & Libs | Algorithmes & Structures |
-|----------|---------------|-------------------------|
-| C++ 🖤  | Git / GitHub | Tri, Graphes, Arbres, Séquences optimisées |
-| Python 🐍 | VSCode / CLI | Recherche binaire, Merge-Insertion |
-| Bash 🐚 | Makefile / Linux | Optimisation et Complexité |
-
+- **Minishell** – Building a fully functional shell in C  
+- **Get Next Line** – Efficient file reading function in C  
+- **Web Server** – Creating web server projects from scratch  
 ---
 
-## 🚀 Projets récents
-
-- **PmergeMe** – Tri ultra-optimisé basé sur Jacobsthal  
-- **CPP Piscine** – Fusion de 9 projets indépendants  
-- **Projets 42** – Apprentissage intensif du C++ et des algos  
-
-✨ Découvre plus dans mes repos !  
-
----
-
-## 📊 Stats GitHub
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonUser&layout=compact&theme=radical)  
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=TonUser&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TonUser&theme=radical)
-
----
-
-## 🎯 Fun / Citation
-
-> “Programmer, c’est penser avec rigueur **et** créativité en même temps.” 💡  
-
-⚡ Toujours en apprentissage, en coding spree et à la recherche de l’optimisation ultime 🚀  
-
-📫 Contact : via GitHub DM ou email ✉️  
-
-![Wave GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+📫 Contact: via GitHub DM or email
